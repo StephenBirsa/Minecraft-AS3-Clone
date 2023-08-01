@@ -7,18 +7,18 @@ Note: the game is not very well optimised and has some mouse lag issues
 Default resolution compiled at: 200x200
 
 # Features
--Movement with WASD
--Left Click to break blocks
--Right Click to place blocks
--Numbered keys to select blocks (Only grass, dirt, stone, bricks, wood log, leaves and blue cloth/wool were implemented)
--Jumping with Spacebar
--Toggleable render distance (block radius) with F key (16 / Tiny, 32 / Small, 64 / Normal, and 120 / Far)
--Caves generated underground
--Day/Night cycle
--Sunlight lighting strength based on how low you have travelled into the ground
--Blocks can be placed in the air (no adjacent block required)
--Block placing/breaking mechanics slightly different from actual Minecraft (Only can place 1 block outwards from player sight and is not determined by adjacent blocks)
--World size is limited with collision borders
+- Movement with WASD
+- Left Click to break blocks
+- Right Click to place blocks
+- Numbered keys to select blocks (Only grass, dirt, stone, bricks, wood log, leaves and blue cloth/wool were implemented)
+- Jumping with Spacebar
+- Toggleable render distance (block radius) with F key (16 / Tiny, 32 / Small, 64 / Normal, and 120 / Far)
+- Caves generated underground
+- Day/Night cycle
+- Sunlight lighting strength based on how low you have travelled into the ground
+- Blocks can be placed in the air (no adjacent block required)
+- Block placing/breaking mechanics slightly different from actual Minecraft (Only can place 1 block outwards from player sight and is not determined by adjacent blocks)
+- World size is limited with collision borders
 
 # Background
 Started this project originally as a port of Notch's JavaScript Minecraft render test/jsfiddle (Which was a port of Minecraft4K limited in JavaScript) on the web into Flash ActionScript 3.0.
