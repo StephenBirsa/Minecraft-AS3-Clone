@@ -7,6 +7,4 @@ Minecraft Classic/Indev ActionScript 3.0 AdobeAir .EXE CPU driven math 3d
 # Tasks
 <b>Todo</b>: reupload project in proper format (not just a zip)
 
-<b>Maybe</b>: some cleanup of the code a little bit (before I move on)
-
 <b>Todo</b>: write a better description here
