@@ -1,0 +1,11 @@
+f - render distance
+esc - close application
+w - forward
+s - backward
+a - left strafe
+d - right strafe
+left click mouse - remove block/s
+right click mouse - place block/s
+mouse movement - look camera view
+1-9 - select block/hand slot
+space - jump

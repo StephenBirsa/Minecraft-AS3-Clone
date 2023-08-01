@@ -1,0 +1,43 @@
+<signatures>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="PackageSignature">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+      <SignatureMethod Algorithm="http://www.w3.org/TR/xmldsig-core#rsa-sha1"/>
+      <Reference URI="#PackageContents">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+        <DigestValue>FFPz60iq/CN0Uc3MhuyAUzOKlhhTAGRM4URnMeOKnMo=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue Id="PackageSignatureValue">QpIB/GI/BvI+4ysXnQs5wxkA5+B3Jc4oBnwdL5UGLnBGKYu+PLtX2NM8V6Mg7MM8EX1ZKmr7PG/d
+fTf8nDAhxJV187om3mbhR0Sqfw6Yw12Y5tm3DvaN63hIOd5K1blcxnHpX4MrLdlUl0te8PfQwPKk
+RUjbO7HFhmz+Vy7RPy4/deezgT7E2t54CYOOjaQojtWCN4kL8sahDLU5RpP98nreIPX1ZxnCTxTS
+xQR7mIfCmfg6Z5rYMjqq1GDr+wjmj/uyUlikpwcs54kTINxB6iNFfsHaF1Gwgv6TAY3j9AymmcLg
+7k4E6UwPWYqXhfnrN9zqnT7PQ4boeBwbB47f5w==</SignatureValue>
+    <KeyInfo>
+      <X509Data>
+        <X509Certificate>MIIC3zCCAcegAwIBAgIaM2FlZWQ3MGI6MTYyYTNkYjhjYmI6LTgwMDAwDQYJKoZIhvcNAQEFBQAw
+GjEYMBYGA1UEAxMPTWluZWNyYWZ0IEluZGV2MB4XDTE4MDQwNzA2MDQ1N1oXDTIzMDQwODA2MDQ1
+N1owGjEYMBYGA1UEAxMPTWluZWNyYWZ0IEluZGV2MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIB
+CgKCAQEAlpLz1HAffCd3T/JqWCplNUB2Syl/wmUWweAegtafayGhEZ7w3PVFni8go4w1dEKwhDmT
+7DcMdSqnOW1CN5w1YsWXxsRwtW2mQu8olHjV8mZjUwkue5DOc0V3Lr9wvQj4krLQoGaxp5Ouk/I0
+raIUIjVzhTdSWr05tA6a8y4RepYaR8K2XD+JTR9YTNJsnFvDkD90ocILjNf31CfV46bA6b0TUKDO
+fe6q5YiFsDz2RtvC/Xqfy2QCe5jEpTy1WYRrz5nlq3bj9WBWLeXPKt5jbVqGcOE0p1YKc+v4i3A2
+lq3OBwNoE9a30TpXOpmTulXbLLU/7w1M+ZFrFP+Cw+2epQIDAQABoxcwFTATBgNVHSUEDDAKBggr
+BgEFBQcDAzANBgkqhkiG9w0BAQUFAAOCAQEAOnl0sVfWFwNdYkR+NFtLqrWeKYy4rxtNA0CRmT6k
+KZ00gERkCinFODixd/cOexY8WeawiHzSHeYcUiJgLFZOhaUChFsy0xrCJRWhpnaTmWWpFI6PmxbX
+7JEsngI92dwV/oV2tIfJQ+aEXco4YASnsnZEDgGceUAI0WUxRA8VKW0taND9blgEFrIPJ6d2WqKo
+iwb8avlv62VrSqiyhk8t5KmzJIEKg0AJ9+4047HMDCawOKJB7fM2kfU1RTPemxb/lqf0WJ2Cv7IY
+Bhkiq3rfONLX9sLA2SV9fgZryZ6bROU4/kboValv5wucTd6PUve0cC9IJeZELWI19tPTO9wffQ==</X509Certificate>
+      </X509Data>
+    </KeyInfo>
+    <Object>
+      <Manifest Id="PackageContents">
+        <Reference URI="mimetype"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod><DigestValue>0/oCb84THKMagtI0Dy0KogEu92TegdesqRr/clXct1c=</DigestValue></Reference><Reference URI="META-INF/AIR/application.xml"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod><DigestValue>PTGVVKdzf0/yZjA/NdqvgJ9GH+mKZfnSMW4f3RtORrQ=</DigestValue></Reference><Reference URI="MinecraftIndev.swf"><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod><DigestValue>RVZBLZSM7h6/jVyrvrbAHZbwg2jsZr7OWmhwHAwyf2E=</DigestValue></Reference>
+      </Manifest>
+    </Object>
+    
+  </Signature>
+</signatures>
