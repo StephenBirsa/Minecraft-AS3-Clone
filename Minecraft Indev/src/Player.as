@@ -1,7 +1,7 @@
 package {
 	/**
 	 * Player
-	 * @author TheLazyCoder
+	 * @author Stephen Birsa
 	 * Date: 15/02/2018
 	 */
 	public final class Player {
