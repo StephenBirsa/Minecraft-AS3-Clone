@@ -2,7 +2,7 @@ package {
 	import flash.geom.ColorTransform;
 	/**
 	 * Environment
-	 * @author TheLazyCoder
+	 * @author Stephen Birsa
 	 * Date: 12/02/2018
 	 */
 	public final class Environment {
