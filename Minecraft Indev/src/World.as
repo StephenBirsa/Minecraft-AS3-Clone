@@ -1,7 +1,7 @@
 package {
 	/**
 	 * World
-	 * @author TheLazyCoder
+	 * @author Stephen Birsa
 	 * Date: 12/02/2018
 	 */
 	public final class World {
