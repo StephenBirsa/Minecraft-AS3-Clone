@@ -1,7 +1,7 @@
 package {
 	/**
 	 * KeyBinds
-	 * @author TheLazyCoder
+	 * @author Stephen Birsa
 	 * Date: 12/02/2018
 	 */
 	internal final class Input {
