@@ -17,7 +17,7 @@ package {
 	import flash.filters.GlowFilter;
 	/**
 	 * Minecraft Indev Clone AS3
-	 * @author TheLazyCoder
+	 * @author Stephen Birsa
 	 * Date: 15/02/2018
 	 */
 	[SWF(width = 800, height = 600)]
